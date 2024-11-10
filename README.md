@@ -43,7 +43,7 @@
    </div>
 
    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px 20px; width: 25%; text-align: center;">
-       <h4>Databases</h4>
+       <h4>Database</h4>
        <p>
            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -55,15 +55,16 @@
        <h4>CI/CD & Version Control</h4>
        <p>
            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-           <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
+           <img src="https://img.shields.io/badge/Jenkins-000000?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
            <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+           <img src="https://img.shields.io/badge/BitBucket-FFFFFF?style=flat&logo=bitbucket&logoColor=blue" alt="Git" />
        </p>
    </div>
 
    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px 20px; width: 25%; text-align: center;">
        <h4>Cloud & Serverless</h4>
        <p>
-           <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+           <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon&logoColor=white" alt="AWS" />
            <img src="https://img.shields.io/badge/Render-0466C8?style=flat&logo=render&logoColor=white" alt="Render" />
        </p>
    </div>
@@ -71,7 +72,7 @@
    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px 20px; width: 25%; text-align: center;">
        <h4>Testing</h4>
        <p>
-           <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=java&logoColor=white" alt="JUnit" />
+           <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit&logoColor=white" alt="JUnit" />
            <img src="https://img.shields.io/badge/Mockito-2D9BF0?style=flat&logo=mockito&logoColor=white" alt="Mockito" />
            <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest" />
            <img src="https://img.shields.io/badge/Enzyme-FFDD00?style=flat&logo=enzyme&logoColor=black" alt="Enzyme" />
@@ -89,8 +90,8 @@
    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px 20px; width: 25%; text-align: center;">
        <h4>Other Tools</h4>
        <p>
-           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-           <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+           <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=blue" alt="IntelliJ" />
+           <img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=yellow" alt="Git" />
        </p>
    </div>
 
